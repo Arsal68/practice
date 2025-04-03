@@ -65,7 +65,7 @@ rst.addEventListener( "click",()=>{
     rst.innerText="Reset game";
     rst.style.color="black";
     });
-    console.log("1509");
+    console.log("152009");
 })
 const updatewin=()=>{
   let win=`Win Counter: \nPlayer1 (X): ${xcount} \n Player2 (O): ${ocount}`;
